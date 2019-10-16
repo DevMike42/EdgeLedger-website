@@ -13,5 +13,4 @@ A basic front end example of a single page business website using the Udemy Cour
 * JavaScript - For creating a smooth scroll UX
 * JQuery
 
-### Deployment Status
-Currently under construction and not yet deployed
+#### [Check out the site!](https://sweetmike.github.io/EdgeLedger-website/)
